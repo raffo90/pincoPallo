@@ -1,0 +1,2 @@
+# pincoPallo
+test a manetta 
